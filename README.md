@@ -1,7 +1,7 @@
 # GoHTML - HTML formatter for Go
 
 [![wercker status](https://app.wercker.com/status/926cf3edc004271539be40d705d037bd/s "wercker status")](https://app.wercker.com/project/bykey/926cf3edc004271539be40d705d037bd)
-[![GoDoc](http://godoc.org/github.com/gostores/gohtml?status.png)](http://godoc.org/github.com/gostores/gohtml)
+[![GoDoc](http://godoc.org/github.com/govenue/gohtml?status.png)](http://godoc.org/github.com/govenue/gohtml)
 
 GoHTML is an HTML formatter for [Go](http://golang.org/). You can format HTML source codes by using this package.
 
@@ -15,7 +15,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gostores/gohtml"
+	"github.com/govenue/gohtml"
 )
 
 func main() {
@@ -82,7 +82,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gostores/gohtml"
+	"github.com/govenue/gohtml"
 )
 
 func main() {
@@ -150,7 +150,7 @@ import (
 	"os"
 	"text/template"
 
-	"github.com/gostores/gohtml"
+	"github.com/govenue/gohtml"
 )
 
 func main() {
@@ -185,4 +185,4 @@ Output:
 
 ## Docs
 
-* [GoDoc](https://godoc.org/github.com/gostores/gohtml)
+* [GoDoc](https://godoc.org/github.com/govenue/gohtml)
